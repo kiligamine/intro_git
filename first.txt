@@ -1,2 +1,5 @@
+Gitのコマンド集
 
-gehoge
+git init
+git add
+git commit
